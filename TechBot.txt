@@ -1,0 +1,390 @@
+Technology is the result of accumulated knowledge and application of skills, methods, and processes used in industrial production and scientific research. Technology is embedded in the operation of all machines, with or without detailed knowledge of their function, for the intended purpose of an organization. The technologies of society consist of what is known as systems. Systems operate by obtaining an input, altering this input through what is known as a process, and then producing an outcome that achieves the intended purpose of the system.
+
+The earliest and simplest form of technology is the development of knowledge that leads to the application of basic tools. The prehistoric invention of shaped stone tools and the discovery of how to control fire increased the sources of food that were available to human beings. The invention of the wheel led to the travelling technologies that helped humans to further increase the yield of food production, travel in less time, and exchange information and raw materials faster. Humanity then progressed to the development of the printing press, the telephone, the computer, and then the Internet.
+
+While technological advances have helped economies develop and create the rise of a leisure class, many technological processes produce unwanted by-products, known as pollution, and the depletion of natural resources from the Earth's environment. As a consequence, philosophical debates have arisen over the use of technology and whether technology improves or worsens the human condition. Neo-Luddism, anarcho-primitivism, and similar reactionary movements criticize the pervasiveness of technology by stating that technology harms the environment and destroys human relationships. While this is the case, ideologies such as transhumanism and techno-progressivism view continued technological progress as beneficial to society and the human condition.
+
+While innovations have always influenced the values of a society and have raised new questions in the ethics of technology, the advancement of technology itself has also led to the pursuit of new solutions for the previously discussed concerns of technological advancement. For example, upcoming technology involves renewable resources being used in transportation, allowing humans to travel in space, for technology itself to become more affordable and reliable, and for increased automation.
+
+
+Contents
+1	Etymology
+2	History
+2.1	Prehistoric
+2.2	Neolithic
+2.3	Ancient
+2.4	Medieval
+2.5	Modern
+3	Philosophy
+3.1	Technicism
+3.2	Optimism
+3.3	Skepticism and critics
+3.4	Appropriate technology
+3.5	Optimism and skepticism in the 21st century
+3.6	Complex technological systems
+4	Other animal species
+5	Science, engineering, and technology
+6	Future technology
+7	See also
+8	References
+9	Further reading
+Etymology
+Technology means "science of craft", from Greek τέχνη, techne, "art, skill, cunning of hand"; and -λογία, -logia.[2] The use of the term "technology" has changed significantly over the last 200 years. Before the 20th century, the term was uncommon in English, and it was used either to refer to the description or study of the useful arts[3] or to allude to technical education, as in the Massachusetts Institute of Technology (chartered in 1861).[4]
+
+The term "technology" rose to prominence in the 20th century in connection with the Second Industrial Revolution. The term's meanings changed in the early 20th century when American social scientists, beginning with Thorstein Veblen, translated ideas from the German concept of Technik into "technology." In German and other European languages, a distinction exists between technik and technologie that is absent in English, which usually translates both terms as "technology." By the 1930s, "technology" referred not only to the study of the industrial arts but to the industrial arts themselves.[5]
+
+History
+Main articles: History of technology, Timeline of electrical and electronic engineering, and Timeline of historic inventions
+Prehistoric
+Further information: Outline of prehistoric technology and Control of fire by early humans
+
+Hand axes from the Acheulian period
+The use of tools by early humans was partly a process of discovery and of evolution. Early humans evolved from a species of foraging hominids which were already bipedal,[6] with a brain mass approximately one third of modern humans.[7] Tool use remained relatively unchanged for most of early human history. Approximately 50,000 years ago, the use of tools and a complex set of behaviors emerged, believed by many archaeologists to be connected to the emergence of fully modern language.[8]
+
+Hominids started using primitive stone tools millions of years ago. The earliest stone tools were little more than a fractured rock, but approximately 75,000 years ago,[9] pressure flaking provided a way to make much finer work.
+
+The discovery and use of fire, a simple energy source with many profound uses, was a turning point in the technological evolution of humankind.[10] The exact date of its discovery is not known; evidence of burnt animal bones at the Cradle of Humankind suggests that the domestication of fire occurred before 1 Ma;[11] scholarly consensus indicates that Homo erectus had controlled fire by between 500 and 400 ka.[12][13] Fire, fueled with wood and charcoal, allowed early humans to cook their food to increase its digestibility, improving its nutrient value and broadening the number of foods that could be eaten.[14]
+
+Other technological advances made during the Paleolithic era were clothing and shelter; the adoption of both technologies cannot be dated exactly, but they were a key to humanity's progress. As the Paleolithic era progressed, dwellings became more sophisticated and more elaborate; as early as 380 ka, humans were constructing temporary wood huts.[15][16] Clothing, adapted from the fur and hides of hunted animals, helped humanity expand into colder regions; humans began to migrate out of Africa by 200 ka and into other continents such as Eurasia.[17]
+
+Neolithic
+Main article: Neolithic Revolution
+
+An array of Neolithic artifacts, including bracelets, axe heads, chisels, and polishing tools
+Human's technological ascent began in earnest in what is known as the Neolithic Period ("New Stone Age"). The invention of polished stone axes was a major advance that allowed forest clearance on a large scale to create farms. This use of polished stone axes increased greatly in the Neolithic, but were originally used in the preceding Mesolithic in some areas such as Ireland.[18] Agriculture fed larger populations, and the transition to sedentism allowed simultaneously raising more children, as infants no longer needed to be carried, as nomadic ones must. Additionally, children could contribute labor to the raising of crops more readily than they could to the hunter-gatherer economy.[19][20]
+
+With this increase in population and availability of labor came an increase in labor specialization.[21] What triggered the progression from early Neolithic villages to the first cities, such as Uruk, and the first civilizations, such as Sumer, is not specifically known; however, the emergence of increasingly hierarchical social structures and specialized labor, of trade and war amongst adjacent cultures, and the need for collective action to overcome environmental challenges such as irrigation, are all thought to have played a role.[22]
+
+Continuing improvements led to the furnace and bellows and provided, for the first time, the ability to smelt and forge gold, copper, silver, and lead  – native metals found in relatively pure form in nature.[23] The advantages of copper tools over stone, bone, and wooden tools were quickly apparent to early humans, and native copper was probably used from near the beginning of Neolithic times (about 10 ka).[24] Native copper does not naturally occur in large amounts, but copper ores are quite common and some of them produce metal easily when burned in wood or charcoal fires. Eventually, the working of metals led to the discovery of alloys such as bronze and brass (about 4000 BCE). The first uses of iron alloys such as steel dates to around 1800 BCE.[25][26]
+
+Ancient
+Main articles: Ancient Egyptian technology, Ancient Greek technology, and Ancient Roman technology
+
+The wheel was invented circa 4000 BCE.
+Meanwhile, humans were learning to harness other forms of energy. The earliest known use of wind power is the sailing ship; the earliest record of a ship under sail is that of a Nile boat dating to the 8th-millennium BCE.[27] From prehistoric times, Egyptians probably used the power of the annual flooding of the Nile to irrigate their lands, gradually learning to regulate much of it through purposely built irrigation channels and "catch" basins. The ancient Sumerians in Mesopotamia used a complex system of canals and levees to divert water from the Tigris and Euphrates rivers for irrigation.[28]
+
+According to archaeologists, the wheel was invented around 4000 BCE probably independently and nearly simultaneously in Mesopotamia (in present-day Iraq), the Northern Caucasus (Maykop culture) and Central Europe.[29] Estimates on when this may have occurred range from 5500 to 3000 BCE with most experts putting it closer to 4000 BCE.[30] The oldest artifacts with drawings depicting wheeled carts date from about 3500 BCE;[31] however, the wheel may have been in use for millennia before these drawings were made. More recently, the oldest-known wooden wheel in the world was found in the Ljubljana Marsh of Slovenia.[32]
+
+The invention of the wheel revolutionized trade and war. It did not take long to discover that wheeled wagons could be used to carry heavy loads. The ancient Sumerians used the potter's wheel and may have invented it.[33] A stone pottery wheel found in the city-state of Ur dates to around 3429 BCE,[34] and even older fragments of wheel-thrown pottery have been found in the same area.[34] Fast (rotary) potters' wheels enabled early mass production of pottery, but it was the use of the wheel as a transformer of energy (through water wheels, windmills, and even treadmills) that revolutionized the application of nonhuman power sources. The first two-wheeled carts were derived from travois[35] and were first used in Mesopotamia and Iran in around 3000 BCE.[35]
+
+The oldest known constructed roadways are the stone-paved streets of the city-state of Ur, dating to circa 4000 BCE[36] and timber roads leading through the swamps of Glastonbury, England, dating to around the same time period.[36] The first long-distance road, which came into use around 3500 BCE,[36] spanned 1,500 miles from the Persian Gulf to the Mediterranean Sea,[36] but was not paved and was only partially maintained.[36] In around 2000 BCE, the Minoans on the Greek island of Crete built a fifty-kilometer (thirty-mile) road leading from the palace of Gortyn on the south side of the island, through the mountains, to the palace of Knossos on the north side of the island.[36] Unlike the earlier road, the Minoan road was completely paved.[36]
+
+
+Photograph of the Pont du Gard in France, one of the most famous ancient Roman aqueducts[37]
+Ancient Minoan private homes had running water.[38] A bathtub virtually identical to modern ones was unearthed at the Palace of Knossos.[38][39] Several Minoan private homes also had toilets, which could be flushed by pouring water down the drain.[38] The ancient Romans had many public flush toilets,[39] which emptied into an extensive sewage system.[39] The primary sewer in Rome was the Cloaca Maxima;[39] construction began on it in the sixth century BCE and it is still in use today.[39]
+
+The ancient Romans also had a complex system of aqueducts,[37] which were used to transport water across long distances.[37] The first Roman aqueduct was built in 312 BCE.[37] The eleventh and final ancient Roman aqueduct was built in 226 CE.[37] Put together, the Roman aqueducts extended over 450 kilometers,[37] but less than seventy kilometers of this was above ground and supported by arches.[37]
+
+Medieval
+Main articles: Medieval technology and Renaissance technology
+Innovations continued through the Middle Ages with innovations such as silk-manufacture (introduced into Europe after centuries of development in Asia), the horse collar and horseshoes in the first few hundred years after the 5th-century fall of the Roman Empire. Medieval technology saw the use of simple machines (such as the lever, the screw, and the pulley) being combined to form more complicated tools, such as the wheelbarrow, windmills and clocks, and a system of universities developed and spread scientific ideas and practices. The Renaissance era produced many innovations, including the printing press (which facilitated the communication of knowledge), and technology became increasingly associated with science, beginning a cycle of mutual advancement. Advances in technology in this era allowed a more reliable supply of food, followed by the wider availability of consumer goods.
+
+Modern
+Main articles: Industrial Revolution, Second Industrial Revolution, and History of computing hardware
+
+The automobile revolutionized personal transportation.
+Starting in the United Kingdom in the 18th century, the Industrial Revolution was a period of great technological discovery, particularly in the areas of agriculture, manufacturing, mining, metallurgy, and transport, driven by the discovery of steam power and the widespread application of the factory system. Technology took another step in a second industrial revolution (c.  1870 to c.  1914) with the harnessing of electricity to allow such innovations as the electric motor, light bulb, and countless others. Scientific advances and the discovery of new concepts later allowed for powered flight and developments in medicine, chemistry, physics, and engineering. The rise in technology has led to skyscrapers and broad urban areas whose inhabitants rely on motors to transport them and their food supplies. Communication improved with the invention of the telegraph, telephone, radio and television. The late-19th and early-20th centuries saw a revolution in transportation with the invention of the airplane and automobile.
+
+The 20th century brought a host of innovations. In physics, the discovery of nuclear fission has led to both nuclear weapons and nuclear power. Computers were invented and later miniaturized using transistors and integrated circuits. Information technology, particularly the optical fiber and optical amplifiers that led to the birth of the Internet, which ushered in the Information Age. Humans started to explore space with satellites (late 1950s, later used for telecommunication) and in crewed missions (1960s) going all the way to the moon. In medicine, this era brought innovations such as open-heart surgery and later stem-cell therapy along with new medications and treatments using genomics.
+
+Complex manufacturing and construction techniques and organizations are needed to make and maintain some of the newer technologies, and entire industries have arisen to support and develop succeeding generations of increasingly more complex tools. Modern technology increasingly relies on training and education – their designers, builders, maintainers, and users often require sophisticated general and specific training. Moreover, these technologies have become so complex that entire fields have developed to support them, including engineering, medicine, and computer science; and other fields have become more complex, such as construction, transportation, and architecture.
+
+Philosophy
+Main article: Philosophy of technology
+Technicism
+Generally, technicism is the belief in the utility of technology for improving human societies.[40] Taken to an extreme, technicism "reflects a fundamental attitude which seeks to control reality, to resolve all problems with the use of scientific–technological methods and tools."[41] In other words, human beings will someday be able to master all problems and possibly even control the future using technology. Some, such as Stephen V. Monsma,[42] connect these ideas to the abdication of religion as a higher moral authority.
+
+Optimism
+See also: Extropianism and Technological optimism
+Optimistic assumptions are made by proponents of ideologies such as transhumanism and singularitarianism, which view technological development as generally having beneficial effects for the society and the human condition. In these ideologies, technological development is morally good.
+
+Transhumanists generally believe that the point of technology is to overcome barriers, and that what we commonly refer to as the human condition is just another barrier to be surpassed.
+
+Singularitarians believe in some sort of "accelerating change"; that the rate of technological progress accelerates as we obtain more technology, and that this will culminate in a "Singularity" after artificial general intelligence is invented in which progress is nearly infinite; hence the term. Estimates for the date of this Singularity vary,[43] but prominent futurist Ray Kurzweil estimates the Singularity will occur in 2045.
+
+Kurzweil is also known for his history of the universe in six epochs: (1) the physical/chemical epoch, (2) the life epoch, (3) the human/brain epoch, (4) the technology epoch, (5) the artificial intelligence epoch, and (6) the universal colonization epoch. Going from one epoch to the next is a Singularity in its own right, and a period of speeding up precedes it. Each epoch takes a shorter time, which means the whole history of the universe is one giant Singularity event.[44]
+
+Some critics see these ideologies as examples of scientism and techno-utopianism and fear the notion of human enhancement and technological singularity which they support. Some have described Karl Marx as a techno-optimist.[45]
+
+Skepticism and critics
+See also: Luddite, Neo-Luddism, Anarcho-primitivism, and Bioconservatism
+Refer to caption
+Luddites smashing a power loom in 1812
+On the somewhat skeptical side are certain philosophers like Herbert Marcuse and John Zerzan, who believe that technological societies are inherently flawed. They suggest that the inevitable result of such a society is to become evermore technological at the cost of freedom and psychological health.
+
+Many, such as the Luddites and prominent philosopher Martin Heidegger, hold serious, although not entirely, deterministic reservations about technology (see "The Question Concerning Technology"[46]). According to Heidegger scholars Hubert Dreyfus and Charles Spinosa, "Heidegger does not oppose technology. He hopes to reveal the essence of technology in a way that 'in no way confines us to a stultified compulsion to push on blindly with technology or, what comes to the same thing, to rebel helplessly against it.' Indeed, he promises that 'when we once open ourselves expressly to the essence of technology, we find ourselves unexpectedly taken into a freeing claim.'[47] What this entails is a more complex relationship to technology than either techno-optimists or techno-pessimists tend to allow."[48]
+
+Some of the most poignant criticisms of technology are found in what are now considered to be dystopian literary classics such as Aldous Huxley's Brave New World, Anthony Burgess's A Clockwork Orange, and George Orwell's Nineteen Eighty-Four. In Goethe's Faust, Faust selling his soul to the devil in return for power over the physical world is also often interpreted as a metaphor for the adoption of industrial technology. More recently, modern works of science fiction such as those by Philip K. Dick and William Gibson and films such as Blade Runner and Ghost in the Shell project highly ambivalent or cautionary attitudes toward technology's impact on human society and identity.
+
+The late cultural critic Neil Postman distinguished tool-using societies from technological societies and from what he called "technopolies," societies that are dominated by the ideology of technological and scientific progress to the exclusion or harm of other cultural practices, values, and world-views.[49]
+
+Darin Barney has written about technology's impact on practices of citizenship and democratic culture, suggesting that technology can be construed as (1) an object of political debate, (2) a means or medium of discussion, and (3) a setting for democratic deliberation and citizenship. As a setting for democratic culture, Barney suggests that technology tends to make ethical questions, including the question of what a good life consists in, nearly impossible because they already give an answer to the question: a good life is one that includes the use of more and more technology.[50]
+
+Nikolas Kompridis has also written about the dangers of new technology, such as genetic engineering, nanotechnology, synthetic biology, and robotics. He warns that these technologies introduce unprecedented new challenges to human beings, including the possibility of the permanent alteration of our biological nature. These concerns are shared by other philosophers, scientists and public intellectuals who have written about similar issues (e.g. Francis Fukuyama, Jürgen Habermas, William Joy, and Michael Sandel).[51]
+
+Another prominent critic of technology is Hubert Dreyfus, who has published books such as On the Internet and What Computers Still Can't Do.
+
+A more infamous anti-technological treatise is Industrial Society and Its Future, written by the Unabomber Ted Kaczynski and printed in several major newspapers (and later books) as part of an effort to end his bombing campaign of the techno-industrial infrastructure. There are also subcultures that disapprove of some or most technology, such as self-identified off-gridders.[52]
+
+Appropriate technology
+See also: Technocriticism and Technorealism
+The notion of appropriate technology was developed in the 20th century by thinkers such as E.F. Schumacher and Jacques Ellul to describe situations where it was not desirable to use very new technologies or those that required access to some centralized infrastructure or parts or skills imported from elsewhere. The ecovillage movement emerged in part due to this concern.
+
+Optimism and skepticism in the 21st century
+This section mainly focuses on American concerns even if it can reasonably be generalized to other Western countries.
+
+The inadequate quantity and quality of American jobs is one of the most fundamental economic challenges we face. [...] What's the linkage between technology and this fundamental problem?
+
+— Bernstein, Jared, "It’s Not a Skills Gap That’s Holding Wages Down: It’s the Weak Economy, Among Other Things," in The American Prospect, October 2014
+In his article, Jared Bernstein, a Senior Fellow at the Center on Budget and Policy Priorities,[53] questions the widespread idea that automation, and more broadly, technological advances, have mainly contributed to this growing labor market problem. His thesis appears to be a third way between optimism and skepticism. Essentially, he stands for a neutral approach of the linkage between technology and American issues concerning unemployment and declining wages.
+
+He uses two main arguments to defend his point. First, because of recent technological advances, an increasing number of workers are losing their jobs. Yet, scientific evidence fails to clearly demonstrate that technology has displaced so many workers that it has created more problems than it has solved. Indeed, automation threatens repetitive jobs but higher-end jobs are still necessary because they complement technology and manual jobs that "requires flexibility judgment and common sense"[54] remain hard to replace with machines. Second, studies have not shown clear links between recent technology advances and the wage trends of the last decades.
+
+Therefore, according to Bernstein, instead of focusing on technology and its hypothetical influences on current American increasing unemployment and declining wages, one needs to worry more about "bad policy that fails to offset the imbalances in demand, trade, income, and opportunity."[54]
+
+In 2019 philosopher Nick Bostrom introduced the notion of a vulnerable world, "one in which there is some level of technological development at which civilization almost certainly gets devastated by default", citing the risks of a pandemic caused by a DIY biohacker, or an arms race triggered by the development of novel armaments.[55] He writes that "Technology policy should not unquestioningly assume that all technological progress is beneficial, or that complete scientific openness is always best, or that the world has the capacity to manage any potential downside of a technology after it is invented."[55]
+
+Complex technological systems
+
+The rear wheel of a bicycle
+
+The flame of a gas stove.
+Thomas P. Hughes stated that because technology has been considered as a key way to solve problems, we need to be aware of its complex and varied characters to use it more efficiently.[56] What is the difference between a wheel or a compass and cooking machines such as an oven or a gas stove? Can we consider all of them, only a part of them, or none of them as technologies?
+
+Technology is often considered too narrowly; according to Hughes, "Technology is a creative process involving human ingenuity".[57] This definition's emphasis on creativity avoids unbounded definitions that may mistakenly include cooking "technologies," but it also highlights the prominent role of humans and therefore their responsibilities for the use of complex technological systems.
+
+Yet, because technology is everywhere and has dramatically changed landscapes and societies, Hughes argues that engineers, scientists, and managers have often believed that they can use technology to shape the world as they want. They have often supposed that technology is easily controllable and this assumption has to be thoroughly questioned.[56] For instance, Evgeny Morozov particularly challenges two concepts: "Internet-centrism" and "solutionism."[58] Internet-centrism refers to the idea that our society is convinced that the Internet is one of the most stable and coherent forces. Solutionism is the ideology that every social issue can be solved thanks to technology and especially thanks to the internet. In fact, technology intrinsically contains uncertainties and limitations. According to Alexis Madrigal's review of Morozov's theory, to ignore it will lead to "unexpected consequences that could eventually cause more damage than the problems they seek to address."[59] Benjamin R. Cohen and Gwen Ottinger also discussed the multivalent effects of technology.[60]
+
+Therefore, recognition of the limitations of technology, and more broadly, scientific knowledge, is needed – especially in cases dealing with environmental justice and health issues. Ottinger continues this reasoning and argues that the ongoing recognition of the limitations of scientific knowledge goes hand in hand with scientists and engineers’ new comprehension of their role. Such an approach of technology and science "[require] technical professionals to conceive of their roles in the process differently. [They have to consider themselves as] collaborators in research and problem solving rather than simply providers of information and technical solutions."[61]
+
+Other animal species
+See also: Tool use by animals, Structures built by animals, and Ecosystem engineer
+
+This adult gorilla uses a branch as a walking stick to gauge the water's depth, an example of technology usage by non-human primates.
+The use of basic technology is also a feature of other animal species apart from humans. These include primates such as chimpanzees,[62] some dolphin communities,[63] and crows.[64][65] Considering a more generic perspective of technology as ethology of active environmental conditioning and control, we can also refer to animal examples such as beavers and their dams, or bees and their honeycombs.
+
+The ability to make and use tools was once considered a defining characteristic of the genus Homo.[66] However, the discovery of tool construction among chimpanzees and related primates has discarded the notion of the use of technology as unique to humans. For example, researchers have observed wild chimpanzees using tools for foraging: some of the tools used include leaf sponges, termite fishing probes, pestles and levers.[67] West African chimpanzees also use stone hammers and anvils for cracking nuts,[68] as do capuchin monkeys of Boa Vista, Brazil.[69]
+
+Science, engineering, and technology
+
+Antoine Lavoisier experimenting with combustion generated by amplified sun light
+The distinction between science, engineering, and technology is not always clear. Science is systematic knowledge of the physical or material world gained through observation and experimentation.[70] Technologies are not usually exclusively products of science, because they have to satisfy requirements such as utility, usability, and safety.[71]
+
+Engineering is the goal-oriented process of designing and making tools and systems to exploit natural phenomena for practical human means, often (but not always) using results and techniques from science. The development of technology may draw upon many fields of knowledge, including scientific, engineering, mathematical, linguistic, and historical knowledge, to achieve some practical result.
+
+Technology is often a consequence of science and engineering, although technology as a human activity precedes the two fields. For example, science might study the flow of electrons in electrical conductors by using already-existing tools and knowledge. This new-found knowledge may then be used by engineers to create new tools and machines such as semiconductors, computers, and other forms of advanced technology. In this sense, scientists and engineers may both be considered technologists; the three fields are often considered as one for the purposes of research and reference.[72]
+
+The exact relations between science and technology, in particular, have been debated by scientists, historians, and policymakers in the late 20th century, in part because the debate can inform the funding of basic and applied science. In the immediate wake of World War II, for example, it was widely considered in the United States that technology was simply "applied science" and that to fund basic science was to reap technological results in due time. An articulation of this philosophy could be found explicitly in Vannevar Bush's treatise on postwar science policy, Science – The Endless Frontier: "New products, new industries, and more jobs require continuous additions to knowledge of the laws of nature ... This essential new knowledge can be obtained only through basic scientific research."[73] In the late-1960s, however, this view came under direct attack, leading towards initiatives to fund science for specific tasks (initiatives resisted by the scientific community). The issue remains contentious, though most analysts resist the model that technology is a result of scientific research.[74][75]
+
+Future technology
+Main article: Emerging technologies
+Theories of technology often attempt to predict the future of technology based on the high technology and science of the time. As with all predictions of the future, however, technology is uncertain.
+
+In 2005, futurist Ray Kurzweil predicted that the future of technology would mainly consist of an overlapping "GNR Revolution" of genetics, nanotechnology and robotics, with robotics being the most important of the three.[76] This future revolution has been explored in films, novels, and video games, which have predicted the creation of many inventions, as well as foreseeing future events. Such inventions and events include a government-controlled simulation that resulted from massive robotics advancements (The Matrix), a society that has rid itself of procreation due to improvements in genetic engineering (Brave New World), and a police state enforced by the government using datamining, nanobots, and drones (Watch Dogs). Humans have already made some of the first steps toward achieving the GNR revolution.
+
+Recent discoveries and ingenuity has allowed us to create robotics in the form of Artificial Intelligence, as well as in the physical form of robots. Artificial intelligence has been used for a variety of purposes, including personal assistants in a smart phone, the first of which was Siri, released in the iPhone 4S in 2011 by Apple.[77] Some believe that the future of robotics will involve a 'greater than human non-biological intelligence.'[78] This concept can be compared to that of a 'rogue AI,' an artificial intelligence that has gained self-awareness, and tries to eradicate humanity. Others believe that the future will involve AI servants creating an easy and effortless life for humankind, where robots have become the primary work force. This future shares many similarities with the concept of planned obsolescence, however, planned obsolescence is seen as a "sinister business strategy.'[79] Man-controlled robots such as drones have been developed to carry out tasks such as bomb defusal and space exploration. Universities such as Harvard are working towards the invention of autonomous robots to be used in situations that would aid humans, such as surgery robots, search and rescue robots, and physical therapy robots.[80]
+
+Genetics have also been explored, with humans understanding genetic engineering to a certain degree. However, gene editing is widely divisive, and usually involves some degree of eugenics. Some have speculated the future of human engineering to include 'super humans,' humans who have been genetically engineered to be faster, stronger, and more survivable than current humans. Others think that genetic engineering will be used to make humans more resistant or completely immune to some diseases.[81] Some even suggest that 'cloning,' the process of creating an exact copy of a human, may be possible through genetic engineering.
+
+Some believe that within the next 10 years, humans will discover nanobot technology, while others believe that we are centuries away from its invention. It is believed by futurists that nanobot technology will allow humans to 'manipulate matter at the molecular and atomic scale.' This discovery could pave the way for many scientific and medical advancements, such as curing new diseases, or inventing new, more efficient technology. It is also believed that nanobots could be injected or otherwise inserted inside the human body, and replace certain parts, keeping humans healthy for an incredibly long amount of time, or combating organ failure to a degree.
+Emerging technologies are technologies whose development, practical applications, or both are still largely unrealized, such that they are figuratively emerging into prominence from a background of nonexistence or obscurity. These technologies are generally new but also include older technologies. Emerging technologies are often perceived as capable of changing the status quo.
+
+Emerging technologies are characterized by radical novelty (in application even if not in origins), relatively fast growth, coherence, prominent impact, and uncertainty and ambiguity. In other words, an emerging technology can be defined as "a radically novel and relatively fast growing technology characterised by a certain degree of coherence persisting over time and with the potential to exert a considerable impact on the socio-economic domain(s) which is observed in terms of the composition of actors, institutions and patterns of interactions among those, along with the associated knowledge production processes. Its most prominent impact, however, lies in the future and so in the emergence phase is still somewhat uncertain and ambiguous."[1]
+
+Emerging technologies include a variety of technologies such as educational technology, information technology, nanotechnology, biotechnology, robotics, and artificial intelligence.[note 1]
+
+New technological fields may result from the technological convergence of different systems evolving towards similar goals. Convergence brings previously separate technologies such as voice (and telephony features), data (and productivity applications) and video together so that they share resources and interact with each other, creating new efficiencies.
+
+Emerging technologies are those technical innovations which represent progressive developments within a field for competitive advantage;[2] converging technologies represent previously distinct fields which are in some way moving towards stronger inter-connection and similar goals. However, the opinion on the degree of the impact, status and economic viability of several emerging and converging technologies varies.
+
+
+Contents
+1	History of emerging technologies
+2	Emerging technology debates
+3	Examples of emerging technologies
+3.1	Artificial intelligence
+3.2	3D printing
+3.3	Gene therapy
+3.4	Cancer vaccines
+3.5	Cultured meat
+3.6	Nanotechnology
+3.7	Robotics
+3.8	Stem-cell therapy
+3.9	Distributed ledger technology
+4	Development of emerging technologies
+4.1	Research and development
+4.2	Patents
+4.3	DARPA
+4.4	Technology competitions and awards
+5	Role of science fiction
+6	In the media
+7	See also
+8	Notes
+9	References
+10	Further reading
+History of emerging technologies
+Main article: History of technology
+In the history of technology, emerging technologies[3][4] are contemporary advances and innovation in various fields of technology.
+
+Over centuries innovative methods and new technologies are developed and opened up. Some of these technologies are due to theoretical research, and others from commercial research and development.
+
+Technological growth includes incremental developments and disruptive technologies. An example of the former was the gradual roll-out of DVD (digital video disc) as a development intended to follow on from the previous optical technology compact disc. By contrast, disruptive technologies are those where a new method replaces the previous technology and makes it redundant, for example, the replacement of horse-drawn carriages by automobiles and other vehicles.
+
+Emerging technology debates
+See also: Technology and society
+Many writers, including computer scientist Bill Joy,[5] have identified clusters of technologies that they consider critical to humanity's future. Joy warns that the technology could be used by elites for good or evil. They could use it as "good shepherds" for the rest of humanity or decide everyone else is superfluous and push for mass extinction of those made unnecessary by technology.[6]
+
+Advocates of the benefits of technological change typically see emerging and converging technologies as offering hope for the betterment of the human condition. Cyberphilosophers Alexander Bard and Jan Söderqvist argue in The Futurica Trilogy that while Man himself is basically constant throughout human history (genes change very slowly), all relevant change is rather a direct or indirect result of technological innovation (memes change very fast) since new ideas always emanate from technology use and not the other way around.[7] Man should consequently be regarded as history's main constant and technology as its main variable. However, critics of the risks of technological change, and even some advocates such as transhumanist philosopher Nick Bostrom, warn that some of these technologies could pose dangers, perhaps even contribute to the extinction of humanity itself; i.e., some of them could involve existential risks.[8][9]
+
+Much ethical debate centers on issues of distributive justice in allocating access to beneficial forms of technology. Some thinkers, including environmental ethicist Bill McKibben, oppose the continuing development of advanced technology partly out of fear that its benefits will be distributed unequally in ways that could worsen the plight of the poor.[10] By contrast, inventor Ray Kurzweil is among techno-utopians who believe that emerging and converging technologies could and will eliminate poverty and abolish suffering.[11]
+
+Some analysts such as Martin Ford, author of The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future,[12] argue that as information technology advances, robots and other forms of automation will ultimately result in significant unemployment as machines and software begin to match and exceed the capability of workers to perform most routine jobs.
+
+As robotics and artificial intelligence develop further, even many skilled jobs may be threatened. Technologies such as machine learning[13] may ultimately allow computers to do many knowledge-based jobs that require significant education. This may result in substantial unemployment at all skill levels, stagnant or falling wages for most workers, and increased concentration of income and wealth as the owners of capital capture an ever-larger fraction of the economy. This in turn could lead to depressed consumer spending and economic growth as the bulk of the population lacks sufficient discretionary income to purchase the products and services produced by the economy.[14]
+
+See also: Technological innovation system, Technological utopianism, and Techno-progressivism
+See also: Current research in evolutionary biology, Bioconservatism, Bioethics, and Biopolitics
+Emerging technologies
+
+NASA Fuel cell stack Direct-methanol cell.
+NASA Fuel cell stack
+Direct-methanol cell.
+
+ 
+Solid-state air batteries Li-Air composition
+Solid-state air batteries
+Li-Air composition
+
+3D IC components. Master and the slave boards.[15]
+3D IC components.
+Master and the slave boards.[15]
+
+The Semantic Web Stack Semantic layer architecture
+The Semantic Web Stack
+Semantic layer architecture
+
+ 
+RFID Transcievers. Activates passive RFID chip.
+RFID Transcievers.
+Activates passive RFID chip.
+
+DARPA Power armatura Electromechanical exoskeleton
+DARPA Power armatura
+Electromechanical exoskeleton
+
+ 
+Agri-robot farming. Cultivation 'bots and husbandry.
+Agri-robot farming.
+Cultivation 'bots and husbandry.
+
+Atmo-vortex engines.[16] Vortex generators
+Atmo-vortex engines.[16]
+Vortex generators
+
+ 
+Electromagnetic weapons. Hydrogen rf plasma discharger
+Electromagnetic weapons.
+Hydrogen rf plasma discharger
+
+Examples of emerging technologies
+Main article: List of emerging technologies
+
+
+Artificial Neural Network with Chip
+Artificial intelligence
+Artificial intelligence
+Main articles: Artificial intelligence and Outline of artificial intelligence
+Artificial intelligence (AI) is the sub intelligence exhibited by machines or software, and the branch of computer science that develops machines and software with animal-like intelligence. Major AI researchers and textbooks define the field as "the study and design of intelligent agents," where an intelligent agent is a system that perceives its environment and takes actions that maximize its chances of success. John McCarthy, who coined the term in 1956, defines it as "the study of making intelligent machines".
+
+The central functions (or goals) of AI research include reasoning, knowledge, planning, learning, natural language processing (communication), perception and the ability to move and manipulate objects. General intelligence (or "strong AI") is still among the field's long-term goals. Currently, popular approaches include deep learning, statistical methods, computational intelligence and traditional symbolic AI. There is an enormous number of tools used in AI, including versions of search and mathematical optimization, logic, methods based on probability and economics, and many others.
+
+
+3D Printer
+3D printing
+Main article: 3D printing
+3D printing, also known as additive manufacturing, has been posited by Jeremy Rifkin and others as part of the third industrial revolution.[17]
+
+Combined with Internet technology, 3D printing would allow for digital blueprints of virtually any material product to be sent instantly to another person to be produced on the spot, making purchasing a product online almost instantaneous.
+
+Although this technology is still too crude to produce most products, it is rapidly developing and created a controversy in 2013 around the issue of 3D printed guns.[18]
+
+Gene therapy
+Main article: Gene therapy
+See also: Genetic engineering timeline
+Gene therapy was first successfully demonstrated in late 1990/early 1991 for adenosine deaminase deficiency, though the treatment was somatic – that is, did not affect the patient's germ line and thus was not heritable. This led the way to treatments for other genetic diseases and increased interest in germ line gene therapy – therapy affecting the gametes and descendants of patients.
+
+Between September 1990 and January 2014, there were around 2,000 gene therapy trials conducted or approved.[19]
+
+Cancer vaccines
+Main article: Cancer vaccine
+A cancer vaccine is a vaccine that treats existing cancer or prevents the development of cancer in certain high-risk individuals. Vaccines that treat existing cancer are known as therapeutic cancer vaccines. There are currently no vaccines able to prevent cancer in general.
+
+On April 14, 2009, The Dendreon Corporation announced that their Phase III clinical trial of Provenge, a cancer vaccine designed to treat prostate cancer, had demonstrated an increase in survival. It received U.S. Food and Drug Administration (FDA) approval for use in the treatment of advanced prostate cancer patients on April 29, 2010.[20] The approval of Provenge has stimulated interest in this type of therapy.[21]
+
+Cultured meat
+Main article: Cultured meat
+Cultured meat, also called in vitro meat, clean meat, cruelty-free meat, shmeat, and test-tube meat, is an animal-flesh product that has never been part of a living animal with exception of the fetal calf serum taken from a slaughtered cow. In the 21st century, several research projects have worked on in vitro meat in the laboratory.[22] The first in vitro beefburger, created by a Dutch team, was eaten at a demonstration for the press in London in August 2013.[23] There remain difficulties to be overcome before in vitro meat becomes commercially available.[24] Cultured meat is prohibitively expensive, but it is expected that the cost could be reduced to compete with that of conventionally obtained meat as technology improves.[25][26] In vitro meat is also an ethical issue. Some argue that it is less objectionable than traditionally obtained meat because it doesn't involve killing and reduces the risk of animal cruelty, while others disagree with eating meat that has not developed naturally.[citation needed]
+
+Nanotechnology
+Main articles: Nanotechnology and Outline of nanotechnology
+Nanotechnology (sometimes shortened to nanotech) is the manipulation of matter on an atomic, molecular, and supramolecular scale. The earliest widespread description of nanotechnology[27][28] referred to the particular technological goal of precisely manipulating atoms and molecules for fabrication of macroscale products, also now referred to as molecular nanotechnology. A more generalized description of nanotechnology was subsequently established by the National Nanotechnology Initiative, which defines nanotechnology as the manipulation of matter with at least one dimension sized from 1 to 100 nanometers. This definition reflects the fact that quantum mechanical effects are important at this quantum-realm scale, and so the definition shifted from a particular technological goal to a research category inclusive of all types of research and technologies that deal with the special properties of matter that occur below the given size threshold.
+
+Robotics
+Main articles: Robotics and Outline of robotics
+Robotics is the branch of technology that deals with the design, construction, operation, and application of robots,[29] as well as computer systems for their control, sensory feedback, and information processing. These technologies deal with automated machines that can take the place of humans in dangerous environments or manufacturing processes, or resemble humans in appearance, behavior, and/or cognition. A good example of a robot that resembles humans is Sophia, a social humanoid robot developed by Hong Kong-based company Hanson Robotics which was activated on April 19, 2015. Many of today's robots are inspired by nature contributing to the field of bio-inspired robotics.
+
+
+Self-replicating 3D printer
+Stem-cell therapy
+Main article: Stem-cell therapy
+Stem cell therapy is an intervention strategy that introduces new adult stem cells into damaged tissue in order to treat disease or injury. Many medical researchers believe that stem cell treatments have the potential to change the face of human disease and alleviate suffering.[30] The ability of stem cells to self-renew and give rise to subsequent generations with variable degrees of differentiation capacities[31] offers significant potential for generation of tissues that can potentially replace diseased and damaged areas in the body, with minimal risk of rejection and side effects.
+
+Chimeric antigen receptor (CAR)-modified T cells have raised among other immunotherapies for cancer treatment, being implemented against B-cell malignancies. Despite the promising outcomes of this innovative technology, CAR-T cells are not exempt from limitations that must yet to be overcome in order to provide reliable and more efficient treatments against other types of cancer.[32]
+
+Distributed ledger technology
+Main articles: Blockchain and Smart contracts
+Distributed ledger or blockchain technology provides a transparent and immutable list of transactions. A wide range of uses has been proposed for where an open, decentralised database is required, ranging from supply chains to cryptocurrencies.
+
+Smart contracts are self-executing transactions which occur when pre-defined conditions are met. The aim is to provide security that is superior to traditional contract law, and to reduce transaction costs and delays. The original idea was conceived by Nick Szabo in 1994,[33] but remained unrealised until the development of blockchains.[34][35]
+
+Development of emerging technologies
+As innovation drives economic growth, and large economic rewards come from new inventions, a great deal of resources (funding and effort) go into the development of emerging technologies. Some of the sources of these resources are described below...
+
+Research and development
+Research and development is directed towards the advancement of technology in general, and therefore includes development of emerging technologies. See also List of countries by research and development spending.
+
+Applied research is a form of systematic inquiry involving the practical application of science. It accesses and uses some part of the research communities' (the academia's) accumulated theories, knowledge, methods, and techniques, for a specific, often state-, business-, or client-driven purpose.
+
+Science policy is the area of public policy which is concerned with the policies that affect the conduct of the science and research enterprise, including the funding of science, often in pursuance of other national policy goals such as technological innovation to promote commercial product development, weapons development, health care and environmental monitoring.
+
+Patents
+
+Top 30 AI patent applicants in 2016
+Patents provide inventors with a limited period of time (minimum of 20 years, but duration based on jurisdiction) of exclusive right in the making, selling, use, leasing or otherwise of their novel technological inventions. Artificial intelligence, robotic inventions, new material, or blockchain platforms may be patentable, the patent protecting the technological know-how used to create these inventions.[36] In 2019, WIPO reported that AI was the most prolific emerging technology in terms of number of patent applications and granted patents, the Internet of things was estimated to be the largest in terms of market size. It was followed, again in market size, by big data technologies, robotics, AI, 3D printing and the fifth generation of mobile services (5G).[37] Since AI emerged in the 1950s, 340000 AI-related patent applications were filed by innovators and 1.6 million scientific papers have been published by researchers, with the majority of all AI-related patent filings published since 2013. Companies represent 26 out of the top 30 AI patent applicants, with universities or public research organizations accounting for the remaining four.[38]
+
+DARPA
+The Defense Advanced Research Projects Agency (DARPA) is an agency of the U.S. Department of Defense responsible for the development of emerging technologies for use by the military.
+
+DARPA was created in 1958 as the Advanced Research Projects Agency (ARPA) by President Dwight D. Eisenhower. Its purpose was to formulate and execute research and development projects to expand the frontiers of technology and science, with the aim to reach beyond immediate military requirements.
+
+Projects funded by DARPA have provided significant technologies that influenced many non-military fields, such as the Internet and Global Positioning System technology.
+
+Technology competitions and awards
+There are awards that provide incentive to push the limits of technology (generally synonymous with emerging technologies). Note that while some of these awards reward achievement after-the-fact via analysis of the merits of technological breakthroughs, others provide incentive via competitions for awards offered for goals yet to be achieved.
+
+The Orteig Prize was a $25,000 award offered in 1919 by French hotelier Raymond Orteig for the first nonstop flight between New York City and Paris. In 1927, underdog Charles Lindbergh won the prize in a modified single-engine Ryan aircraft called the Spirit of St. Louis. In total, nine teams spent $400,000 in pursuit of the Orteig Prize.
+
+The XPRIZE series of awards, public competitions designed and managed by the non-profit organization called the X Prize Foundation, are intended to encourage technological development that could benefit mankind. The most high-profile XPRIZE to date was the $10,000,000 Ansari XPRIZE relating to spacecraft development, which was awarded in 2004 for the development of SpaceShipOne.
+
+The Turing Award is an annual prize given by the Association for Computing Machinery (ACM) to "an individual selected for contributions of a technical nature made to the computing community." It is stipulated that the contributions should be of lasting and major technical importance to the computer field. The Turing Award is generally recognized as the highest distinction in computer science, and in 2014 grew to $1,000,000.
+
+The Millennium Technology Prize is awarded once every two years by Technology Academy Finland, an independent fund established by Finnish industry and the Finnish state in partnership. The first recipient was Tim Berners-Lee, inventor of the World Wide Web.
+
+In 2003, David Gobel seed-funded the Methuselah Mouse Prize (Mprize) to encourage the development of new life extension therapies in mice, which are genetically similar to humans. So far, three Mouse Prizes have been awarded: one for breaking longevity records to Dr. Andrzej Bartke of Southern Illinois University; one for late-onset rejuvenation strategies to Dr. Stephen Spindler of the University of California; and one to Dr. Z. Dave Sharp for his work with the pharmaceutical rapamycin.
+
+Role of science fiction
+Science fiction has often affected innovation and new technology - for example many rocketry pioneers were inspired by science fiction[39] - and the documentary How William Shatner Changed the World gives a number of examples of imagined technologies being actualized.
+
+In the media
+"bleeding edge" redirects here. For other uses, see bleeding edge (disambiguation).
+The term bleeding edge has been used to refer to some new technologies, formed as an allusion to the similar terms "leading edge" and "cutting edge". It tends to imply even greater advancement, albeit at an increased risk because of the unreliability of the software or hardware.[40] The first documented example of this term being used dates to early 1983, when an unnamed banking executive was quoted to have used it in reference to Storage Technology Corporation.[41]
